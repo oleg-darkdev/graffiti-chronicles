@@ -1,0 +1,86 @@
+const extension = {
+	title: 'Sweden artists',
+	country: 'Sweden',
+	price: '22',
+	relise: '2028',
+	cards: 60,
+	img: 'images/extensions/sweden.png',
+	artists: [
+		{ nickName: 'StockholmSpray', link: '/' },
+		{ nickName: 'GothenburgGhost', link: '/' },
+		{ nickName: 'MalmöMist', link: '/' },
+		{ nickName: 'UppsalaUrban', link: '/' },
+		{ nickName: 'VikingVandal', link: '/' },
+		{ nickName: 'NordicNuke', link: '/' },
+		{ nickName: 'ArcticArt', link: '/' },
+		{ nickName: 'LaplandLines', link: '/' },
+		{ nickName: 'SkarpnäckSketch', link: '/' },
+		{ nickName: 'HelsingborgHue', link: '/' },
+		{ nickName: 'SundsvallSplash', link: '/' },
+		{ nickName: 'ÖrebroInk', link: '/' },
+		{ nickName: 'VästeråsVibe', link: '/' },
+		{ nickName: 'LinköpingLush', link: '/' },
+		{ nickName: 'BoråsBlast', link: '/' },
+		{ nickName: 'NorrköpingNudge', link: '/' },
+		{ nickName: 'JönköpingJolt', link: '/' },
+		{ nickName: 'FalunFlash', link: '/' },
+		{ nickName: 'KarlstadKrew', link: '/' },
+		{ nickName: 'TrollhättanTag', link: '/' },
+		{ nickName: 'EskilstunaEdge', link: '/' },
+		{ nickName: 'KristianstadKick', link: '/' },
+		{ nickName: 'KalmarKicks', link: '/' },
+		{ nickName: 'SkellefteåSketch', link: '/' },
+		{ nickName: 'TäbyTrace', link: '/' },
+		{ nickName: 'LundLines', link: '/' },
+		{ nickName: 'HalmstadHue', link: '/' },
+		{ nickName: 'GävleGlow', link: '/' },
+		{ nickName: 'SödertäljeSpray', link: '/' },
+		{ nickName: 'ÖstersundInk', link: '/' },
+		{ nickName: 'KarlskronaKicks', link: '/' },
+		{ nickName: 'BorlängeBlast', link: '/' },
+		{ nickName: 'VästervikVandal', link: '/' },
+		{ nickName: 'TumbaTrace', link: '/' },
+		{ nickName: 'ÄngelholmArt', link: '/' },
+		{ nickName: 'NyköpingNudge', link: '/' },
+		{ nickName: 'LuleåLines', link: '/' },
+		{ nickName: 'SigtunaSpray', link: '/' },
+		{ nickName: 'KarlskogaKick', link: '/' },
+		{ nickName: 'MölndalMist', link: '/' },
+		{ nickName: 'VarbergVibe', link: '/' },
+		{ nickName: 'KristinehamnKick', link: '/' },
+		{ nickName: 'HudiksvallHue', link: '/' },
+		{ nickName: 'SkövdeSplash', link: '/' },
+		{ nickName: 'LidingöLines', link: '/' },
+		{ nickName: 'SundbybergSpray', link: '/' },
+		{ nickName: 'MotalaMist', link: '/' },
+		{ nickName: 'ÄlmhultArt', link: '/' },
+		{ nickName: 'KungsbackaKick', link: '/' },
+		{ nickName: 'FalkenbergFlash', link: '/' },
+		{ nickName: 'ÖrnsköldsvikInk', link: '/' },
+		{ nickName: 'SkaraSketch', link: '/' },
+		{ nickName: 'NässjöNudge', link: '/' },
+		{ nickName: 'UddevallaUrban', link: '/' },
+		{ nickName: 'VänersborgVandal', link: '/' },
+		{ nickName: 'SäffleSpray', link: '/' },
+		{ nickName: 'SträngnäsSplash', link: '/' }
+	],
+	shortDesc:
+		'Explore the dynamic Swedish graffiti scene with over 60 artist tags inspired by Sweden’s cities, Nordic culture, and street art energy.',
+	del: '',
+	features: [
+		{
+			title: 'Artists',
+			subTitle: '60+ unique graffiti artist nicknames reflecting Sweden’s urban and cultural vibes.'
+		},
+		{
+			title: 'Cultural Flavor',
+			subTitle: 'Tags inspired by Swedish geography, history, and modern street art movements.'
+		},
+		{
+			title: 'Gameplay Expansion',
+			subTitle: 'New cards and challenges inspired by Sweden’s graffiti culture.'
+		}
+	]
+};
+
+export default extension;

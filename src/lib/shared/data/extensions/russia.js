@@ -1,0 +1,92 @@
+const extension = {
+	title: 'Russia artists',
+	country: 'Russia',
+	price: '40',
+	relise: '2025',
+	cards: 120,
+	img: 'images/extensions/russia.png',
+	artists: [
+		{ nickName: 'MoskGraff', link: '/' },
+		{ nickName: 'SaintSpray', link: '/' },
+		{ nickName: 'SiberSkull', link: '/' },
+		{ nickName: 'UralVandal', link: '/' },
+		{ nickName: 'KremlinKrew', link: '/' },
+		{ nickName: 'VolgaVibe', link: '/' },
+		{ nickName: 'TundraTag', link: '/' },
+		{ nickName: 'RedSquareRiot', link: '/' },
+		{ nickName: 'CyrillicCrush', link: '/' },
+		{ nickName: 'BlokNot', link: '/' },
+		{ nickName: 'MetroMsk', link: '/' },
+		{ nickName: 'ZimaZone', link: '/' },
+		{ nickName: 'VodkaVex', link: '/' },
+		{ nickName: 'ChekaCharm', link: '/' },
+		{ nickName: 'ArbatArt', link: '/' },
+		{ nickName: 'KazanKlip', link: '/' },
+		{ nickName: 'Volchok', link: '/' },
+		{ nickName: 'LeninLines', link: '/' },
+		{ nickName: 'SnegSpray', link: '/' },
+		{ nickName: 'DynamoDrip', link: '/' },
+		{ nickName: 'BorschBlast', link: '/' },
+		{ nickName: 'TagTroika', link: '/' },
+		{ nickName: 'TulaTrek', link: '/' },
+		{ nickName: 'PiterPaint', link: '/' },
+		{ nickName: 'BalticBomb', link: '/' },
+		{ nickName: 'SputnikSplash', link: '/' },
+		{ nickName: 'OmskOmen', link: '/' },
+		{ nickName: 'NizhnyNote', link: '/' },
+		{ nickName: 'BliniBlast', link: '/' },
+		{ nickName: 'YakutYarn', link: '/' },
+		{ nickName: 'TatarsTag', link: '/' },
+		{ nickName: 'SaratovStroke', link: '/' },
+		{ nickName: 'PermPulse', link: '/' },
+		{ nickName: 'MurmanskMist', link: '/' },
+		{ nickName: 'ChelyabChalk', link: '/' },
+		{ nickName: 'IzhevInk', link: '/' },
+		{ nickName: 'VladVibe', link: '/' },
+		{ nickName: 'SochiSplash', link: '/' },
+		{ nickName: 'TverskoyTag', link: '/' },
+		{ nickName: 'KirovKlash', link: '/' },
+		{ nickName: 'BryanskBlast', link: '/' },
+		{ nickName: 'KhabarovKick', link: '/' },
+		{ nickName: 'SiberSpray', link: '/' },
+		{ nickName: 'UfaUprise', link: '/' },
+		{ nickName: 'VolgaVandal', link: '/' },
+		{ nickName: 'MagnitMural', link: '/' },
+		{ nickName: 'PskovPaint', link: '/' },
+		{ nickName: 'IvanInk', link: '/' },
+		{ nickName: 'KalugaKrew', link: '/' },
+		{ nickName: 'RyazanRush', link: '/' },
+		{ nickName: 'TagTundra', link: '/' },
+		{ nickName: 'VoronezVex', link: '/' },
+		{ nickName: 'TomskTrace', link: '/' },
+		{ nickName: 'TogliTag', link: '/' },
+		{ nickName: 'NovgorNotes', link: '/' },
+		{ nickName: 'SmolSpray', link: '/' },
+		{ nickName: 'KostromaKick', link: '/' },
+		{ nickName: 'KaliningradKlaw', link: '/' },
+		{ nickName: 'ArkhangelArt', link: '/' },
+		{ nickName: 'SakhalinSplash', link: '/' },
+		{ nickName: 'VyborgVibe', link: '/' },
+		{ nickName: 'SevastSplat', link: '/' }
+	],
+	shortDesc:
+		'Explore the vibrant and gritty graffiti culture of Russia with this expansion. Featuring over 60 authentic artist nicknames inspired by iconic Russian cities, history, and urban street art scenes.',
+	del: '',
+	features: [
+		{
+			title: 'Artists',
+			subTitle:
+				'60+ unique Russian graffiti artist tags inspired by urban legends and local styles.'
+		},
+		{
+			title: 'Cultural Depth',
+			subTitle: 'Nicknames reflecting Russia’s vast geography and street art diversity.'
+		},
+		{
+			title: 'Gameplay Expansion',
+			subTitle: 'New cards, challenges, and visual styles capturing Russian urban graffiti.'
+		}
+	]
+};
+
+export default extension;

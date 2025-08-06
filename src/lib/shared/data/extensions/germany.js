@@ -1,0 +1,87 @@
+const extension = {
+	title: 'Germany artists',
+	country: 'Germany',
+	price: '50',
+	relise: '2025',
+	cards: 160,
+	img: 'images/extensions/germany.png',
+	artists: [
+		{ nickName: 'BERL1N', link: '/' },
+		{ nickName: 'MUC77', link: '/' },
+		{ nickName: 'KÖLN', link: '/' },
+		{ nickName: 'STGT', link: '/' },
+		{ nickName: 'HHZ', link: '/' },
+		{ nickName: 'FRNB', link: '/' },
+		{ nickName: 'DUSK', link: '/' },
+		{ nickName: 'BXL', link: '/' },
+		{ nickName: 'LEIPZ', link: '/' },
+		{ nickName: 'DRESD', link: '/' },
+		{ nickName: 'HANNY', link: '/' },
+		{ nickName: 'NBG', link: '/' },
+		{ nickName: 'KIEL', link: '/' },
+		{ nickName: 'MAGD', link: '/' },
+		{ nickName: 'WUPP', link: '/' },
+		{ nickName: 'AACH', link: '/' },
+		{ nickName: 'OSN', link: '/' },
+		{ nickName: 'ERF', link: '/' },
+		{ nickName: 'LUX', link: '/' },
+		{ nickName: 'BAM', link: '/' },
+		{ nickName: 'TÜB', link: '/' },
+		{ nickName: 'HEID', link: '/' },
+		{ nickName: 'FREI', link: '/' },
+		{ nickName: 'ULM', link: '/' },
+		{ nickName: 'COPS', link: '/' },
+		{ nickName: 'WIES', link: '/' },
+		{ nickName: 'KREF', link: '/' },
+		{ nickName: 'POTZ', link: '/' },
+		{ nickName: 'HBG', link: '/' },
+		{ nickName: 'BSH', link: '/' },
+		{ nickName: 'RE', link: '/' },
+		{ nickName: 'KASSEL', link: '/' },
+		{ nickName: 'SAAR', link: '/' },
+		{ nickName: 'HAM', link: '/' },
+		{ nickName: 'MO', link: '/' },
+		{ nickName: 'ROST', link: '/' },
+		{ nickName: 'HEF', link: '/' },
+		{ nickName: 'OBER', link: '/' },
+		{ nickName: 'SIGI', link: '/' },
+		{ nickName: 'WÜRZ', link: '/' },
+		{ nickName: 'MZ', link: '/' },
+		{ nickName: 'TRIER', link: '/' },
+		{ nickName: 'FLENZ', link: '/' },
+		{ nickName: 'ZWL', link: '/' },
+		{ nickName: 'COTTB', link: '/' },
+		{ nickName: 'GÖ', link: '/' },
+		{ nickName: 'ERLA', link: '/' },
+		{ nickName: 'FULDA', link: '/' },
+		{ nickName: 'INGO', link: '/' },
+		{ nickName: 'RIE', link: '/' },
+		{ nickName: 'KE', link: '/' },
+		{ nickName: 'LÜBE', link: '/' },
+		{ nickName: 'BIELE', link: '/' },
+		{ nickName: 'DORT', link: '/' },
+		{ nickName: 'MECK', link: '/' },
+		{ nickName: 'RO', link: '/' },
+		{ nickName: 'ZWEI', link: '/' },
+		{ nickName: 'RBG', link: '/' }
+	],
+	shortDesc:
+		'Discover the raw and diverse graffiti culture of Germany with this expansion pack. Featuring over 60 artists inspired by the urban streets of Berlin, Munich, Hamburg, and more, it brings authentic German street art vibes and unique styles to your game.',
+	del: '',
+	features: [
+		{
+			title: 'Artists',
+			subTitle: '60+ authentic tags and styles from German graffiti crews.'
+		},
+		{
+			title: 'Local Flavor',
+			subTitle: 'Nicknames and designs reflecting Germany’s urban art scenes and culture.'
+		},
+		{
+			title: 'Expanded Gameplay',
+			subTitle: 'Includes new cards, combos, and graffiti challenges inspired by German cities.'
+		}
+	]
+};
+
+export default extension;

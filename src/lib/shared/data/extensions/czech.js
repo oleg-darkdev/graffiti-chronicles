@@ -1,0 +1,88 @@
+const extension = {
+	title: 'Czech artists',
+	country: 'Czech',
+	price: '20',
+	relise: '2025',
+	cards: 60,
+	img: 'images/extensions/czech.png',
+	artists: [
+		{ nickName: 'PRGFX', link: '/' },
+		{ nickName: 'KARLZ', link: '/' },
+		{ nickName: 'BRN7', link: '/' },
+		{ nickName: 'OSTR', link: '/' },
+		{ nickName: 'PIVO', link: '/' },
+		{ nickName: 'FRAK', link: '/' },
+		{ nickName: 'BAMZ', link: '/' },
+		{ nickName: 'SKRAT', link: '/' },
+		{ nickName: 'TRAM', link: '/' },
+		{ nickName: 'LITR', link: '/' },
+		{ nickName: 'HUSTL', link: '/' },
+		{ nickName: 'RZK', link: '/' },
+		{ nickName: 'ZMRZ', link: '/' },
+		{ nickName: 'VLTAVA', link: '/' },
+		{ nickName: 'SPRT', link: '/' },
+		{ nickName: 'ČOPR', link: '/' },
+		{ nickName: 'SVLZ', link: '/' },
+		{ nickName: 'KLUK', link: '/' },
+		{ nickName: 'RČN', link: '/' },
+		{ nickName: 'GRZT', link: '/' },
+		{ nickName: 'PRGUP', link: '/' },
+		{ nickName: 'JZK', link: '/' },
+		{ nickName: 'BZEN', link: '/' },
+		{ nickName: 'MAJZ', link: '/' },
+		{ nickName: 'TŘEŠ', link: '/' },
+		{ nickName: 'ŠKRŤ', link: '/' },
+		{ nickName: 'VLK', link: '/' },
+		{ nickName: 'PTK', link: '/' },
+		{ nickName: 'KÁRA', link: '/' },
+		{ nickName: 'FČR', link: '/' },
+		{ nickName: 'DŘEV', link: '/' },
+		{ nickName: 'ZLATO', link: '/' },
+		{ nickName: 'SMRT', link: '/' },
+		{ nickName: 'ZÁPA', link: '/' },
+		{ nickName: 'DRNK', link: '/' },
+		{ nickName: 'RTZ', link: '/' },
+		{ nickName: 'ŠRÁM', link: '/' },
+		{ nickName: 'GRUZ', link: '/' },
+		{ nickName: 'HLIN', link: '/' },
+		{ nickName: 'KÁMO', link: '/' },
+		{ nickName: 'SKLÁ', link: '/' },
+		{ nickName: 'ČARL', link: '/' },
+		{ nickName: 'MŠE', link: '/' },
+		{ nickName: 'PUDL', link: '/' },
+		{ nickName: 'TIGR', link: '/' },
+		{ nickName: 'KRK', link: '/' },
+		{ nickName: 'LOMB', link: '/' },
+		{ nickName: 'BAST', link: '/' },
+		{ nickName: 'TRNT', link: '/' },
+		{ nickName: 'KMOT', link: '/' },
+		{ nickName: 'ZPĚV', link: '/' },
+		{ nickName: 'BŮH', link: '/' },
+		{ nickName: 'ŽLUT', link: '/' },
+		{ nickName: 'ŠUM', link: '/' },
+		{ nickName: 'VLN', link: '/' },
+		{ nickName: 'SKOL', link: '/' },
+		{ nickName: 'KORD', link: '/' },
+		{ nickName: 'VZOR', link: '/' },
+		{ nickName: 'MRZ', link: '/' }
+	],
+	shortDesc:
+		'Explore the vibrant and diverse graffiti culture of the Czech Republic with this expansion. Featuring over 60 artists inspired by Prague’s streets, Moravian towns, and the country’s rich urban art scene, this pack adds authentic local flavor and style to your gameplay.',
+	del: '',
+	features: [
+		{
+			title: 'Artists',
+			subTitle: '60+ unique tags and styles from the Czech urban art community.'
+		},
+		{
+			title: 'Local Flavor',
+			subTitle: 'Nicknames and aesthetics inspired by Czech language, culture, and street art.'
+		},
+		{
+			title: 'Expanded Gameplay',
+			subTitle: 'Add new cards, combos, and challenges from the Czech graffiti scene.'
+		}
+	]
+};
+
+export default extension;
